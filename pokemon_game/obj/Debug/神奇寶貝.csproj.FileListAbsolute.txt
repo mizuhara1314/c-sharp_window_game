@@ -1,0 +1,10 @@
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\bin\Debug\神奇寶貝.exe.config
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\bin\Debug\神奇寶貝.exe
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\bin\Debug\神奇寶貝.pdb
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.csproj.AssemblyReference.cache
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.Properties.Resources.resources
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.csproj.GenerateResource.cache
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.exe
+C:\Users\user\Documents\視窗程式設計\神奇寶貝\神奇寶貝\obj\Debug\神奇寶貝.pdb

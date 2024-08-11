@@ -1,0 +1,26 @@
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\pokemon_game.csproj.AssemblyReference.cache
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\pokemon_game.csproj.SuggestedBindingRedirects.cache
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Interop.WMPLib.dll
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\pokemon_game.csproj.ResolveComReference.cache
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\pokemon_game.csproj.GenerateResource.cache
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\pokemon_game.csproj.CoreCompileInputs.cache
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.exe
+D:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.pdb
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.csproj.AssemblyReference.cache
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.csproj.SuggestedBindingRedirects.cache
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\Interop.WMPLib.dll
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.csproj.ResolveComReference.cache
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.Properties.Resources.resources
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.csproj.GenerateResource.cache
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.csproj.CoreCompileInputs.cache
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\bin\Debug\pokemon_game.exe.config
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\bin\Debug\pokemon_game.exe
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\bin\Debug\pokemon_game.pdb
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.Form1.resources
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.exe
+D:\Platform-Game-in-Windows-Form-main\pokemon_game\obj\Debug\pokemon_game.pdb
